@@ -1,3 +1,6 @@
 [submodule "gitsubmodule-example-1"]
 	path = gitsubmodule-example-1
 	url = https://github.com/fneco/gitsubmodule-example-1.git
+[submodule "gitsubmodule-example-2"]
+	path = gitsubmodule-example-2
+	url = https://github.com/fneco/gitsubmodule-example-2.git
